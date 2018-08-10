@@ -1,2 +1,2 @@
 # zsh-backup
-Full backup of oh-my-zsh and zshrc
+Backup of my oh-my-zsh and zshrc
